@@ -1,0 +1,3 @@
+add: select files to be recorded in the next commit
+commit: recorde the changes of staged files
+push: upload commit to the remote
